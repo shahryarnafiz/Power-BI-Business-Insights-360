@@ -5,7 +5,7 @@ As an aspiring Data Analyst, I created an end-to-end Power BI dashboard for Atli
 
 
 📊 Dashboard Views
-Home Page
+Home.png
 
 📈 Finance View
 Analyze Profit & Loss statements
