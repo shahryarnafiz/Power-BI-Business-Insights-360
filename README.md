@@ -1,104 +1,145 @@
-# Power-BI-Business-Insights-360
-As an aspiring Data Analyst, I created an end-to-end Power BI dashboard for AtliQ Hardware that transforms raw data into meaningful insights. This project showcases how analytics can empower smarter decisions across Finance, Sales, Supply Chain, Marketing, and Executive functions.
+<h2>📊 Business Insights 360 – Power BI Dashboard</h2>
 
-🔗 Live Dashboard: 
-
-
-📊 Business Insights 360 – Power BI Dashboard
-
-An end-to-end Power BI analytics project designed for AtliQ Hardware, a consumer electronics company, to transform raw data into actionable business intelligence. This dashboard provides a 360° view of key business areas — Finance, Sales, Marketing, Supply Chain, and Executive — enabling smarter, data-driven decisions.
-
-🔗 Live Dashboard: https://lnkd.in/ejZR8zeU
-
-🔗 Project Walkthrough Video: https://lnkd.in/eTk_7Bu8
+An end-to-end Power BI analytics project built for AtliQ Hardware, a consumer electronics company, designed to transform raw data into actionable insights. This dashboard provides a 360° view of key business areas like Finance, Sales, Marketing, Supply Chain, and Executive enabling smarter, faster, and data-driven decisions.
 
 
 
-📁 Project Overview
+🔗 Live Dashboard: [https://lnkd.in/ejZR8zeU](https://app.powerbi.com/view?r=eyJrIjoiOWM0ZWFjMjUtMWQ2ZS00MDg3LWFjZjYtOTZmMTc4MDQ3ZWUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=17d9ec8fc8e643fd6fe8)
 
-AtliQ Hardware faced challenges with fragmented reporting and manual Excel workflows. Business Insights 360 was built to solve this problem by centralizing KPIs, improving reporting speed, and delivering cross-functional visibility — all from a single, interactive dashboard built on 1.8M+ records.
 
-📊 Dashboard Views
-(https://github.com/shahryarnafiz/Power-BI-Business-Insights-360/blob/main/Home.png)
 
-Centralized entry point linking all business views
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Quick summary of major KPIs and metrics
 
-📈 Finance View
+
+🧠 Project Overview
+
+AtliQ Hardware faced challenges with fragmented Excel-based reporting, leading to slow decision-making and limited visibility across departments. Business Insights 360 was designed as a full-scale BI solution to solve these challenges.
+Built on 1.8M+ records, the dashboard consolidates KPIs, improves reporting speed, and provides data driven insights.
+
+
+
+
+<h2>📊 Dashboard Views</h2>
+
+   Centralized entry point to all dashboards
+
+  Snapshot of key metrics across all business functions
+
+![Dashboard Overview](https://github.com/shahryarnafiz/Power-BI-Business-Insights-360/blob/main/Home.png)
+
+
+
+
+
+
+
+<h2>📈 Finance View</h2>
 
 Digital Profit & Loss statement layout
 
-Track Net Sales, Gross Margin %, and Net Profit % over time
+Track Net Sales, Gross Margin %, and Net Profit % trends
 
-Identify top and bottom performing products and customers
+Identify top and bottom-performing products and customers
 
-💼 Sales View
+![finance view](https://github.com/shahryarnafiz/Power-BI-Business-Insights-360/blob/main/Finance_view.png)
 
-Explore customer and product performance in detail
 
-Analyze revenue contribution and COGS
+ 
+<h2>💼 Sales View</h2>
+
+Explore product and customer-level performance
 
 KPIs: Net Sales, Gross Margin %, Unit Economics
 
-📣 Marketing View
+Deep dive into COGS and revenue contribution breakdown
 
-Assess performance by product, market, region, and customer
+![sales view](https://github.com/shahryarnafiz/Power-BI-Business-Insights-360/blob/main/Sales_view.png)
+
+
+
+<h2>📣 Marketing View</h2>
 
 Compare GM% and NP% across segments
 
-Break down COGS, OPEX, and Net Profit
+Break down COGS and Net Profit
 
-🚚 Supply Chain View
+Analyze product, regional, and customer performance
+
+![marketing view](https://github.com/shahryarnafiz/Power-BI-Business-Insights-360/blob/main/Marketing_view.png)
+
+
+
+
+<h2>🚚 Supply Chain View</h2>
 
 Measure Forecast Accuracy, Net Error, and Absolute Error
 
-Spot trends in forecast reliability by customer and product
+Identify trends in forecast reliability by customer and product
 
-Identify excess inventory and stock-out risks
+Detect inventory risks like Excess Stock or Stock-Outs
 
-🤵 Executive View
+![supply chain view](https://github.com/shahryarnafiz/Power-BI-Business-Insights-360/blob/main/supplychain_view.png)
 
-Consolidated insights for leadership decision-making
 
-Track market share performance and long-term trends
 
-Highlight top 5 customers and products by revenue
+<h2>🤵 Executive View</h2>
 
-🛠 Project Workflow
+Integrated, high-level KPIs for leadership decisions
 
-📊 Scenario Planning & Business Understanding
+Monitor Market Share Trends and revenue growth
 
-📁 Data Collection & Compilation
+Identify top 5 customers and products driving business
 
-🧹 Data Cleaning & Transformation (Power Query)
+![executive view](https://github.com/shahryarnafiz/Power-BI-Business-Insights-360/blob/main/Executive_view.png)
 
-🧱 Data Modeling & Architecture Design
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✏️ Dashboard Wireframing & Visualization
+<h2>🛠 Project Workflow</h2>
 
-🔁 Iteration with Stakeholder Feedback
+📊 Scenario Planning – Understanding business goals and key questions
 
-🧰 Tools & Skills Used
+📁 Data Compilation – Collecting system and non-system data
 
-Power BI Desktop – Data visualization and dashboard design
+🧹 Data Cleaning & Transformation – Preprocessing data in Power Query
 
-DAX Language – KPI modeling and calculations
+🧱 Data Modeling & Architecture – Designing fact-dimension relationships
 
-SQL – Data extraction and preprocessing
+✏️ Dashboard Design – Sketching visuals and KPI layouts
 
-Excel – Data cleaning and initial analysis
+🔁 Stakeholder Feedback – Iterating and refining based on insights
 
-Power Query (M) – ETL operations
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-DAX Studio – Performance tuning and optimization
+<h2>🧰 Tools & Skills Used</h2>
 
-🚀 Key Learnings
+🖥️ Power BI Desktop – Visualization and dashboard building
 
-Translating business needs into meaningful data insights
+📊 DAX Language – KPI modeling, calculations, and advanced measures
 
-Designing clear, intuitive, and KPI-driven dashboards
+🗄️ SQL – Data extraction and preprocessing
+
+📑 Excel – Data cleaning and exploratory analysis
+
+🔄 Power Query (M) – ETL processes and data integration
+
+⚙️ DAX Studio – Performance tuning and optimization
+
+📃 Project Charter Documentation – Structuring objectives and scope
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h2>🚀 Key Learnings</h2>
+
+Translating business needs into actionable data insights
+
+Designing intuitive, KPI-focused dashboards for real-world use
+
+Strengthening analytical thinking and visualization skills
 
 Building scalable data models for enterprise analytics
 
-Strengthening analytical thinking and visualization skills
+<h2>🙌 Feedback</h2>
+
+Your feedback is valuable!
+Every suggestion helps improve future projects.
