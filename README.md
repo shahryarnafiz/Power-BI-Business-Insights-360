@@ -19,7 +19,7 @@ An end-to-end Power BI analytics project designed for AtliQ Hardware, a consumer
 AtliQ Hardware faced challenges with fragmented reporting and manual Excel workflows. Business Insights 360 was built to solve this problem by centralizing KPIs, improving reporting speed, and delivering cross-functional visibility — all from a single, interactive dashboard built on 1.8M+ records.
 
 📊 Dashboard Views
-[((Home.png))](https://github.com/shahryarnafiz/Power-BI-Business-Insights-360/blob/main/Home.png)
+(https://github.com/shahryarnafiz/Power-BI-Business-Insights-360/blob/main/Home.png)
 
 Centralized entry point linking all business views
 
